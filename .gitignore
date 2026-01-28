@@ -1,0 +1,15 @@
+.dockerignore
+.env
+script.sh
+__pycache__/
+env/
+api.py
+build_vectorstore.py
+chatbot.py
+Dockerfile
+requirements.txt
+rapport.docx
+rapport.pdf
+README.md
+scraping.py
+*.pyc
